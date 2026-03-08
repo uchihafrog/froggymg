@@ -6,7 +6,7 @@ import requests
 import random
 
 API_URL = "https://smmcheep.com/api/v2"
-API_KEY = "PUT_YOUR_API_KEY"
+API_KEY = "28ada1150823bfadd8f84149b19203e6"
 
 def clear():
     os.system("clear")
